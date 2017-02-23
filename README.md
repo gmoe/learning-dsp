@@ -19,3 +19,10 @@
 [cppAudioInd]: https://www.youtube.com/watch?v=boPEO2auJj4
 [goldenRules]: https://www.youtube.com/watch?v=SJXGSJ6Zoro
 [lamit]: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
+
+## Filters
+ * [Graphical Explanation of Building Digital Filters][dgtfilt]
+ * [Cookbook Formula for audio EQ Biquad Filter Coefficients][cookcoef]
+
+[dgtfilt]: https://www.youtube.com/watch?v=FnpkBE4kJ6Q
+[cookcoef]: http://www.musicdsp.org/files/Audio-EQ-Cookbook.txt
