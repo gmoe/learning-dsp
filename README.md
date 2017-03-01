@@ -21,7 +21,7 @@
 * [Linear Algebra MIT Video Series][lamit]
 * [Linear Algebra Video Series][layt]
 * [Mathematics of the Discrete Fourier Transform][jos-mdft]
-* [Spectral Audio Signal Processing[jos-saps]
+* [Spectral Audio Signal Processing][jos-saps]
 
 [mitdsp]: https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=electricalengineering&spec=signalprocessing
 [lamit]: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
