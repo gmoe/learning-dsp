@@ -1,0 +1,30 @@
+{
+  "sectionName": "Signal Processing and Mathematics",
+  "links": [
+    {
+      "title": "MIT OpenCourseware DSP",
+      "type": "",
+      "link": "https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=electricalengineering&spec=signalprocessing"
+    },
+    {
+      "title": "Linear Algebra MIT Video Series",
+      "type": "video",
+      "link": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm"
+    },
+    {
+      "title": "Essence of Linear Algebra Video Series",
+      "type": "video",
+      "link": "https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"
+    },
+    {
+      "title": "Mathematics of the Discrete Fourier Transform",
+      "type": "book",
+      "link": "https://ccrma.stanford.edu/~jos/mdft/"
+    },
+    {
+      "title": "Spectral Audio Signal Processing",
+      "type": "book",
+      "link": "https://ccrma.stanford.edu/~jos/sasp/"
+    }
+  ]
+}

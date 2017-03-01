@@ -1,0 +1,20 @@
+{
+  "sectionName": "Filters",
+  "links": [
+    {
+      "title": "Graphical Explanation of Building Digital Filters",
+      "type": "video",
+      "link": "https://www.youtube.com/watch?v=FnpkBE4kJ6Q"
+    },
+    {
+      "title": "Cookbook Formula for Audio EQ Biquad Filter Coefficients",
+      "type": "document",
+      "link": "http://www.musicdsp.org/files/Audio-EQ-Cookbook.txt"
+    },
+    {
+      "title": "Introduction to Digital Filters",
+      "type": "book",
+      "link": "https://ccrma.stanford.edu/~jos/filters/"
+    }
+  ]
+}

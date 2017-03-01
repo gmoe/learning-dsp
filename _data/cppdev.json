@@ -1,0 +1,45 @@
+{
+  "sectionName": "C/C++ Development",
+  "links": [
+    {
+      "title": "C++ Code Guidelines",
+      "type": "document",
+      "link": "http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines"
+    },
+    {
+      "title": "Learn C with Open Source Books",
+      "type": "document",
+      "link": "https://www.ossblog.org/learn-c-programming-with-9-excellent-open-source-books/"
+    },
+    {
+      "title": "Learn C++ with Open Source Books",
+      "type": "document",
+      "link": "https://www.ossblog.org/master-c-programming-with-open-source-books/"
+    },
+    {
+      "title": "C without stdlib (Linux-specific)",
+      "type": "document",
+      "link": "http://weeb.ddns.net/0/programming/c_without_standard_library_linux.txt"
+    },
+    {
+      "title": "Learn to build audio plugins with Juce",
+      "type": "document",
+      "link": "https://www.juce.com/tutorials"
+    },
+    {
+      "title": "Making audio plugins with WDL-OL",
+      "type": "document",
+      "link": "http://martin-finke.de/blog/tags/making_audio_plugins.html"
+    },
+    {
+      "title": "CppCon2015 - Timur Doumler C++ in the Audio Industry",
+      "type": "video",
+      "link": "https://www.youtube.com/watch?v=boPEO2auJj4"
+    },
+    {
+      "title": "ADC2016 - Golden Rules of Audio Programming",
+      "type": "video",
+      "link": "https://www.youtube.com/watch?v=SJXGSJ6Zoro"
+    }
+  ]
+}

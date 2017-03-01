@@ -1,0 +1,15 @@
+{
+  "sectionName": "Physical Modelling",
+  "links": [
+    {
+      "title": "Physical Audio Signal Processing For Virtual Musical Instruments And Audio Effects",
+      "type": "book",
+      "link": "https://ccrma.stanford.edu/~jos/pasp/"
+    },
+    {
+      "title": "Doppler Simulation and the Leslie",
+      "type": "document",
+      "link": "https://ccrma.stanford.edu/~jos/doppler/doppler.pdf"
+    }
+  ]
+}
