@@ -10,10 +10,18 @@ title: Learning DSP
 {% for sectionFile in site.data.index.index %}
 <div>
   {% assign section = site.data[sectionFile] %}
-  <h2>{{ section.sectionName }}</h2>
+  <h2 class="section-title">{{ section.sectionName }}</h2>
   <ul>
     {% for entry in section.links %}
-    <li><a href="{{ entry.link }}">{{ entry.title }}</a></li>
+    <li>
+      {% case entry.type %}
+        {% when 'video' %}
+        <i class="fa fa-video-camera" aria-hidden="true"></i>
+        {% when 'book' %}
+        <i class="fa fa-book" aria-hidden="true"></i>
+      {% endcase %}
+      <a href="{{ entry.link }}">{{ entry.title }}</a>
+    </li>
     {% endfor %}
   </ul>
 </div>

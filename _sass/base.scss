@@ -7,3 +7,14 @@ body {
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
 }
+
+.section-title {
+  margin-top: 25px;
+  width: 100%;
+  padding-bottom: 5px;
+  border-bottom: 1px solid $grey-color-light;
+}
+
+.fa {
+  color: $grey-color-dark;
+}
