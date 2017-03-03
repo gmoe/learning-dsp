@@ -8,11 +8,46 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
-.section-title {
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 26px;
   margin-top: 25px;
   width: 100%;
   padding-bottom: 5px;
   border-bottom: 1px solid $grey-color-light;
+}
+
+a {
+  color: $brand-color;
+  &:visited {
+    color: darken($brand-color, 25%);
+  }
+}
+
+/*
+code {
+  background-color: $grey-color-light;
+  padding-left: 15px;
+}
+*/
+
+code {
+  border: 1px solid $grey-color;
+  border-radius: 2px;
+  padding: 4px;
+}
+
+pre {
+  background-color: $grey-color-light;
+  padding: 15px;
+}
+
+pre > code {
+  border: none;
+  padding: none;
 }
 
 .fa {

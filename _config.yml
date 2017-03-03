@@ -1,11 +1,11 @@
 # Site settings
 title: Learning DSP
-email: me@griffinmoe.com
 description: >
   Online resources for learning digital signal processing and audio plugin design.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://griffinmoe.com/learning-dsp" # the base hostname & protocol for your site
+url: "http://griffinmoe.com/learning-dsp" # the base hostname & protocol for your site
+repo: "https://github.com/gmoe/learning-dsp"
 
 # Build settings
 markdown: kramdown
-exclude: ["CNAME", "README.md"]
+exclude: ["CNAME"]

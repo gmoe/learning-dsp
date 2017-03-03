@@ -1,16 +1,13 @@
 ---
 layout: default
-title: Learning DSP
 ---
 
-<h1>{{ site.title }}</h1>
-
-<p>{{ site.description }}</p>
+{{ content }}
 
 {% for sectionFile in site.data.index.index %}
 <div>
   {% assign section = site.data[sectionFile] %}
-  <h2 class="section-title">{{ section.sectionName }}</h2>
+  <h1 class="section-title">{{ section.sectionName }}</h1>
   <ul>
     {% for entry in section.links %}
     <li>
