@@ -11,4 +11,4 @@ please submit a [pull request][repo]. For more information, please review
 the [submission guidelines][guidelines].
 
 [repo]: https://github.com/gmoe/learning-dsp
-[guidelines]: /guidelines.html
+[guidelines]: guidelines.html
