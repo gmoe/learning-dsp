@@ -1,6 +1,10 @@
 .page-content {
   margin: 15px auto;
   width: 50%;
+
+  @include media-query($on-laptop) {
+    width: 95%;
+  }
 }
 
 header {
