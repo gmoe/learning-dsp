@@ -35,6 +35,11 @@
       "title": "Spectral Audio Signal Processing",
       "type": "book",
       "link": "https://ccrma.stanford.edu/~jos/sasp/"
+    },
+    {
+      "title": "The Synthesis Toolkit in C++ (STK)",
+      "type": "library",
+      "link": "https://ccrma.stanford.edu/software/stk/"
     }
   ]
 }
