@@ -7,6 +7,11 @@
       "link": "https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=electricalengineering&spec=signalprocessing"
     },
     {
+      "title": "Think DSP: Digital Signal Processing in Python",
+      "type": "book",
+      "link": "http://greenteapress.com/thinkdsp/html/index.html"
+    },
+    {
       "title": "Linear Algebra MIT Video Series",
       "type": "video",
       "link": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm"
