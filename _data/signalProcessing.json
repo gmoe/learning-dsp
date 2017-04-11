@@ -40,6 +40,11 @@
       "title": "The Synthesis Toolkit in C++ (STK)",
       "type": "library",
       "link": "https://ccrma.stanford.edu/software/stk/"
+    },
+    {
+      "title": "Theory and Techniques of Electronic Music",
+      "type": "book",
+      "link": "http://msp.ucsd.edu/techniques/v0.07/book-html/"
     }
   ]
 }
