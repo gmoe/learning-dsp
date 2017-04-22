@@ -1,0 +1,30 @@
+{
+  "sectionName": "Mathematics",
+  "links": [
+    {
+      "title": "Linear Algebra MIT Video Series",
+      "type": "video",
+      "link": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm"
+    },
+    {
+      "title": "Immersive Linear Algebra",
+      "type": "book",
+      "link": "http://immersivemath.com/ila/index.html"
+    },
+    {
+      "title": "Essence of Linear Algebra Video Series",
+      "type": "video",
+      "link": "https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"
+    },
+    {
+      "title": "Mathematics of the Discrete Fourier Transform",
+      "type": "book",
+      "link": "https://ccrma.stanford.edu/~jos/mdft/"
+    },
+    {
+      "title": "Calculus Made Easy by Silvanus Thompson",
+      "type": "book",
+      "link": "http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf"
+    }
+  ]
+}

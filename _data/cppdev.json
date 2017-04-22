@@ -32,6 +32,11 @@
       "link": "http://martin-finke.de/blog/tags/making_audio_plugins.html"
     },
     {
+      "title": "The Synthesis Toolkit in C++ (STK)",
+      "type": "library",
+      "link": "https://ccrma.stanford.edu/software/stk/"
+    },
+    {
       "title": "CppCon2015 - Timur Doumler C++ in the Audio Industry",
       "type": "video",
       "link": "https://www.youtube.com/watch?v=boPEO2auJj4"

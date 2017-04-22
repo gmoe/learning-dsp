@@ -1,5 +1,5 @@
 {
-  "sectionName": "Signal Processing and Mathematics",
+  "sectionName": "Signal Processing",
   "links": [
     {
       "title": "MIT OpenCourseware DSP",
@@ -12,34 +12,9 @@
       "link": "http://greenteapress.com/thinkdsp/html/index.html"
     },
     {
-      "title": "Linear Algebra MIT Video Series",
-      "type": "video",
-      "link": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm"
-    },
-    {
-      "title": "Immersive Linear Algebra",
-      "type": "book",
-      "link": "http://immersivemath.com/ila/index.html"
-    },
-    {
-      "title": "Essence of Linear Algebra Video Series",
-      "type": "video",
-      "link": "https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"
-    },
-    {
-      "title": "Mathematics of the Discrete Fourier Transform",
-      "type": "book",
-      "link": "https://ccrma.stanford.edu/~jos/mdft/"
-    },
-    {
       "title": "Spectral Audio Signal Processing",
       "type": "book",
       "link": "https://ccrma.stanford.edu/~jos/sasp/"
-    },
-    {
-      "title": "The Synthesis Toolkit in C++ (STK)",
-      "type": "library",
-      "link": "https://ccrma.stanford.edu/software/stk/"
     },
     {
       "title": "Theory and Techniques of Electronic Music",

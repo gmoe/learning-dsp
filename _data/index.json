@@ -1,8 +1,9 @@
 {
   "index": [
     "cppdev",
-    "physicalModeling",
+    "mathematics",
     "signalProcessing",
-    "filters"
+    "filters",
+    "physicalModeling"
   ]
 }
