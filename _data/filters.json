@@ -15,6 +15,11 @@
       "title": "Introduction to Digital Filters",
       "type": "book",
       "link": "https://ccrma.stanford.edu/~jos/filters/"
+    },
+    {
+      "title": "Filter Shortcuts - Derived from Zoelzer, Chamberlin and Tarrabia",
+      "type": "document",
+      "link": "http://tre.ucsd.edu/wordpress/wp-content/uploads/2017/11/filter-shortcuts.pdf"
     }
   ]
 }
