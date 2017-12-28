@@ -2,6 +2,11 @@
   "sectionName": "Mathematics",
   "links": [
     {
+      "title": "Reading Mathematics"
+      "type": "book",
+      "link": "http://www.math.cornell.edu/~hubbard/readingmath.pdf"
+    },
+    {
       "title": "Linear Algebra MIT Video Series",
       "type": "video",
       "link": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm"
