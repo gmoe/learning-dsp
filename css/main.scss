@@ -40,6 +40,13 @@ body {
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
+  
+  margin: 15px auto;
+  width: 50%;
+
+  @include media-query($on-laptop) {
+    width: 95%;
+  }
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -91,15 +98,6 @@ pre > code {
 //-------
 // Layout
 //-------
-
-body {
-  margin: 15px auto;
-  width: 50%;
-
-  @include media-query($on-laptop) {
-    width: 95%;
-  }
-}
 
 header {
   display: inline-block;
