@@ -14,10 +14,7 @@ $spacing-unit:     30px;
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #41A1AE;
-//$cover-background-color: #02779E; //Default
 $cover-background-color: #41A1AE;
-//$cover-background-color: #4E8F87;
-//$cover-background-color: #A47988;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -29,18 +26,117 @@ $content-width:    800px;
 $on-palm:          400px;
 $on-laptop:        800px;
 
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
   @media screen and (max-width: $device), print {
     @content;
   }
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import "base";
+body {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-weight: 300;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-text-size-adjust: 100%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 26px;
+  margin-top: 25px;
+  width: 100%;
+  padding-bottom: 5px;
+  border-bottom: 1px solid $grey-color-light;
+}
+
+a {
+  color: $brand-color;
+  &:visited {
+    color: darken($brand-color, 25%);
+  }
+}
+
+/*
+code {
+  background-color: $grey-color-light;
+  padding-left: 15px;
+}
+*/
+
+code {
+  border: 1px solid $grey-color;
+  border-radius: 2px;
+  padding: 4px;
+}
+
+pre {
+  background-color: $grey-color-light;
+  padding: 15px;
+}
+
+pre > code {
+  border: none;
+  padding: none;
+}
+
+.fa {
+  color: $grey-color-dark;
+}
+
+//-------
+// Layout
+//-------
+
+body {
+  margin: 15px auto;
+  width: 50%;
+
+  @include media-query($on-laptop) {
+    width: 95%;
+  }
+}
+
+header {
+  display: inline-block;
+  width: 100%;
+  height: 50px;
+  padding: 5px 0;
+  line-height: 50px;
+  border-bottom: 1px solid $grey-color-light;
+}
+
+.site-title {
+  float: left;
+  font-size: 36px;
+
+  & > a {
+    text-decoration: none;
+    color: $text-color;
+  }
+
+  & > a:hover {
+    color: $grey-color;
+  }
+}
+
+.site-subtitle {
+  float: right;
+}
+
+.site-subtitle > a {
+  color: $text-color;
+  text-decoration: none;
+
+  &:hover {
+    color: $grey-color;
+  }
+}
+
+.site-subtitle > .fa {
+  margin-left: 5px;
+}
